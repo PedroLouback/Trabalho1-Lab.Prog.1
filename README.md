@@ -7,7 +7,7 @@ Trabalho Final de Laboratório Programação de Computadores 2
 
 ## Enunciado
 
-[Imgur](https://imgur.com/75xxtt1.jpg)
+![Imgur](https://imgur.com/75xxtt1.jpg)
 
 ## Sobre o Programa
 
