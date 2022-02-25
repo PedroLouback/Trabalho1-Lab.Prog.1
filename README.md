@@ -1,4 +1,4 @@
-Trabalho Final de Laboratório Programação de Computadores 2
+Trabalho 1 de Laboratório Programação de Computadores 1
 ===========
 [![Linguagem C](https://img.shields.io/badge/Linguagem-C-green.svg)](https://github.com/PedroLouback/TrabalhoFinal-Prog.2)
 [![IDE](https://img.shields.io/badge/IDE-Dev--C%2B%2B-orange.svg)](http://orwelldevcpp.blogspot.com/)
